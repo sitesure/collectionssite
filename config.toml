@@ -1,5 +1,5 @@
 # Settings
-baseURL = "http://example.org/"
+#baseURL = "http://sitesure.com/"
 languageCode = "en-us"
 title = "Our Collections"
 theme = "autophugo"
